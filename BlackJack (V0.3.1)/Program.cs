@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -162,8 +162,8 @@ namespace BlackJack__V0._3_
                 }
 
 
-                left1 = Console.CursorLeft+2;
-                top1 = Console.CursorTop-4;
+                left1 = Console.CursorLeft + 2;
+                top1 = Console.CursorTop - 4;
 
             }
             Console.WriteLine();
@@ -265,7 +265,7 @@ namespace BlackJack__V0._3_
 
                 while (true)
                 {
-                    
+
                     if (player == players[players.Count - 1])
                     {
                         Console.SetCursorPosition(leftStart, topStart);
@@ -312,7 +312,7 @@ namespace BlackJack__V0._3_
                     else
                     {
 
-                        
+
                         playerScore = player.Score;
 
                         if (gameStrategy.WantCard(player))
@@ -387,28 +387,6 @@ namespace BlackJack__V0._3_
             Game game = new Game("Я");
             game.Start();
 
-
-                //Console.Write("1 Downloading: ");
-                //var left1 = Console.CursorLeft;
-                //var top1 = Console.CursorTop;
-
-                //Console.WriteLine();
-                //Console.Write("2 Downloading: ");
-                //var left2 = Console.CursorLeft;
-                //var top2 = Console.CursorTop;
-
-                //Console.CursorVisible = false;
-
-                //for (int i = 0; i < 1000; i++)
-                //{
-                //    Console.SetCursorPosition(left1, top1);
-                //    Console.Write(i + " MB");
-
-                //    Console.SetCursorPosition(left2, top2);
-                //    Console.Write(i * 2 + " MB");
-
-                //    Thread.Sleep(100);
-                //}
         }
     }
 }
