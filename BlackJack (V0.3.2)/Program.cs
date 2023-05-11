@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -17,7 +17,10 @@ namespace BlackJack__V0._3._2_
             Console.Title = "Black Hohol Jack!";
             Console.OutputEncoding = Encoding.UTF8;
 
-            Game game = new Game("Я");
+            Console.Write("Введите имя: ");
+            string name = Console.ReadLine();
+
+            Game game = new Game(name);
             game.Start();
 
         }
