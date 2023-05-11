@@ -1,8 +1,0 @@
-E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\BlackJack (V0.3.1)\BlackJack (V0.3.1)\bin\Debug\BlackJack (V0.3.1).exe.config
-E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\BlackJack (V0.3.1)\BlackJack (V0.3.1)\bin\Debug\BlackJack (V0.3.1).exe
-E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\BlackJack (V0.3.1)\BlackJack (V0.3.1)\bin\Debug\BlackJack (V0.3.1).pdb
-E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\BlackJack (V0.3.1)\BlackJack (V0.3.1)\obj\Debug\BlackJack (V0.3.1).csproj.AssemblyReference.cache
-E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\BlackJack (V0.3.1)\BlackJack (V0.3.1)\obj\Debug\BlackJack (V0.3.1).csproj.SuggestedBindingRedirects.cache
-E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\BlackJack (V0.3.1)\BlackJack (V0.3.1)\obj\Debug\BlackJack (V0.3.1).csproj.CoreCompileInputs.cache
-E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\BlackJack (V0.3.1)\BlackJack (V0.3.1)\obj\Debug\BlackJack (V0.3.1).exe
-E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\BlackJack (V0.3.1)\BlackJack (V0.3.1)\obj\Debug\BlackJack (V0.3.1).pdb
